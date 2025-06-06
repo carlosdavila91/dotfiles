@@ -3,8 +3,9 @@ alias sudo='sudo '
 
 alias ..="cd .."
 alias ...="cd ../.."
-alias ll="ls -l"
-alias la="ls -la"
+alias ll="exa -l --icons || ls -l"
+alias la="exa -la --icons || ls -la"
+alias ~="cd ~"
 alias dotfiles='cd $DOTFILES_PATH'
 
 # Git
@@ -30,3 +31,5 @@ alias up='dot package update_all'
 
 # Own aliases
 alias cdd='cd $HOME/Development'
+alias cl="clear"
+
