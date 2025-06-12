@@ -9,6 +9,7 @@ alias ~="cd ~"
 alias dotfiles='cd $DOTFILES_PATH'
 
 # Git
+alias ga="git add"
 alias gaa="git add -A"
 alias gc='$DOTLY_PATH/bin/dot git commit'
 alias gca="git add --all && git commit --amend --no-edit"
