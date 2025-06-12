@@ -32,4 +32,4 @@ alias up='dot package update_all'
 # Own aliases
 alias cdd='cd $HOME/Development'
 alias cl="clear"
-
+alias k="kubectl"
