@@ -46,6 +46,8 @@ path=(
 	"/usr/bin"
 	"/usr/sbin"
 	"/sbin"
+	# For work only (safe to remove when no longer needed)
+	"/mnt/c/Users/z004abmy/AppData/Local/Programs/Microsoft VS Code/bin"
 	"$path"
 )
 
