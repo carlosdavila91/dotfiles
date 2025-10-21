@@ -3,9 +3,9 @@ alias sudo='sudo '
 
 alias ..="cd .."
 alias ...="cd ../.."
-# TODO: Exa admits --icons if the right font is installed
-alias ll="exa -l || ls -l"
-alias la="exa -la || ls -la"
+# TODO: eza admits --icons if the right font is installed
+alias ll="eza -l || ls -l"
+alias la="eza -la || ls -la"
 alias ~="cd ~"
 alias dotfiles='cd $DOTFILES_PATH'
 
