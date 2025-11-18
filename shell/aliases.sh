@@ -22,6 +22,7 @@ alias gps="git push"
 alias gpsf="git push --force"
 alias gpl="git pull --rebase --autostash"
 alias gb="git branch"
+alias gbl="git branch --list"
 alias gl='$DOTLY_PATH/bin/dot git pretty-log'
 
 # Utils
