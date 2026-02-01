@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "bierner.markdown-mermaid",
+        "charliermarsh.ruff",
+        "franmastromarino.vs-code-settings-os",
+        "donjayamanne.githistory",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.remote-containers",
+        "tamasfe.even-better-toml"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "$schema": "vscode://schemas/settings/user",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.testing.pytestPath": "${workspaceFolder}/.venv/bin/pytest"
+}

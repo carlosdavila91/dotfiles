@@ -1,0 +1,22 @@
+{
+    "$schema": "vscode://schemas/settings/user",
+    // Git
+    "git.autofetch": true,
+    // 
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    // Python settings
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    },
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.terminal.activateEnvironment": true,
+    // Workbench settings
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "window.autoDetectColorScheme": true
+}
