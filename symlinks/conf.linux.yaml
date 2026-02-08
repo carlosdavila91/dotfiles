@@ -7,3 +7,8 @@
 
 - link:
     ~/.dotly: os/linux/.dotly
+    # linux vscode settings
+    ~/.config/Code/User/extensions.json: editors/code/extensions.json
+    ~/.config/Code/User/keybindings.json: editors/code/keybindings.json
+    ~/.config/Code/User/settings.all.json: editors/code/settings.all.json
+    ~/.config/Code/User/settings.linux.json: editors/code/settings.linux.json
